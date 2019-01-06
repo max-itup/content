@@ -1,0 +1,757 @@
+{
+    "categories": [
+        {
+            "id": "text_editors",
+            "name": "Text Editors",
+            "order": 1
+        },
+        {
+            "id": "productivity",
+            "name": "Productivity",
+            "order": 2
+        },
+        {
+            "id": "ides",
+            "name": "IDEs",
+            "order": 3
+        },
+        {
+            "id": "rss",
+            "name": "RSS",
+            "order": 4
+        },
+        {
+            "id": "translation",
+            "name": "Translation Tools",
+            "order": 5
+        },
+        {
+            "id": "password_management",
+            "name": "Password Management",
+            "order": 6
+        },
+        {
+            "id": "virtualization",
+            "name": "Virtualization",
+            "order": 7
+        },
+        {
+            "id": "browsers",
+            "name": "Browsers",
+            "order": 8
+        },
+        {
+            "id": "communication",
+            "name": "Communication",
+            "order": 9
+        },
+        {
+            "id": "version_control",
+            "name": "Version Control",
+            "order": 10
+        },
+        {
+            "id": "homebrew_packages",
+            "name": "Homebrew Packages",
+            "order": 11
+        },
+        {
+            "id": "ruby_gems",
+            "name": "Ruby Gems",
+            "order": 12
+        },
+        {
+            "id": "os_settings",
+            "name": "OS Settings",
+            "order": 13
+        }
+    ],
+    "items": [
+        {
+            "id": "visual_studio_code",
+            "type": "cask",
+            "name": "Visual Studio Code",
+            "description": "Code editing. Redefined.",
+            "category": "text_editors",
+            "download_url": "https://code.visualstudio.com/",
+            "code": "visual-studio-code"
+        },
+        {
+            "id": "atom",
+            "type": "cask",
+            "name": "Atom",
+            "description": "A hackable text editor for the 21st Century.",
+            "category": "text_editors",
+            "download_url": "https://atom.io/",
+            "code": "atom"
+        },
+        {
+            "id": "brackets",
+            "type": "cask",
+            "name": "Brackets",
+            "description": "A modern, open source text editor that understands web design.",
+            "category": "text_editors",
+            "download_url": "http://brackets.io/",
+            "code": "brackets"
+        },
+        {
+            "id": "coteditor",
+            "type": "cask",
+            "name": "CotEditor",
+            "description": "The Plain-Text Editor for macOS.",
+            "category": "text_editors",
+            "download_url": "https://coteditor.com/",
+            "code": "coteditor"
+        },
+        {
+            "id": "coda",
+            "type": "cask",
+            "name": "Coda",
+            "description": "Coda is everything you need to hand-code a website, in one beautiful app.",
+            "category": "text_editors",
+            "download_url": "https://panic.com/coda/",
+            "code": "coda"
+        },
+        {
+            "id": "sublime_text",
+            "type": "cask",
+            "name": "Sublime Text",
+            "description": "Sublime Text is a sophisticated text editor for code, markup and prose.",
+            "category": "text_editors",
+            "download_url": "http://www.sublimetext.com/3",
+            "code": "sublime-text"
+        },
+        {
+            "id": "textmate",
+            "type": "cask",
+            "name": "TextMate",
+            "description": "Powerful and customizable text editor with support for a huge list of programming languages and developed as open source.",
+            "category": "text_editors",
+            "download_url": "https://macromates.com/",
+            "code": "textmate"
+        },
+        {
+            "id": "libreoffice",
+            "type": "cask",
+            "name": "LibreOffice",
+            "description": "A powerful office suite – its clean interface and feature-rich tools help you unleash your creativity and enhance your productivity.",
+            "category": "productivity",
+            "download_url": "https://www.libreoffice.org/",
+            "code": "libreoffice"
+        },
+        {
+            "id": "openoffice",
+            "type": "cask",
+            "name": "OpenOffice",
+            "description": "The Free and Open Productivity Suite",
+            "category": "productivity",
+            "download_url": "http://www.openoffice.org/",
+            "code": "openoffice"
+        },
+        {
+            "id": "microsoft_office",
+            "type": "cask",
+            "name": "Microsoft Office",
+            "description": "Unmistakably Office, designed for Mac. Do your best work—anywhere, anytime and with anyone.",
+            "category": "productivity",
+            "download_url": "https://products.office.com/en-us/mac/microsoft-office-for-mac",
+            "code": "microsoft-office"
+        },
+        {
+            "id": "agenda",
+            "type": "cask",
+            "name": "Agenda",
+            "description": "Agenda is a date-focused note taking app for both planning and documenting your projects.",
+            "category": "productivity",
+            "download_url": "https://agenda.com/",
+            "code": "agenda"
+        },
+        {
+            "id": "evernote",
+            "type": "cask",
+            "name": "Evernote",
+            "description": "Evernote helps you capture and prioritize ideas, projects, and to-do lists, so nothing falls through the cracks.",
+            "category": "productivity",
+            "download_url": "https://evernote.com/",
+            "code": "evernote"
+        },
+        {
+            "id": "alfred",
+            "type": "cask",
+            "name": "Alfred",
+            "description": "An award-winning app for macOS which boosts your efficiency with hotkeys, keywords, text expansion and more. Search your Mac and the web, and be more productive with custom actions to control your Mac.",
+            "category": "productivity",
+            "download_url": "https://www.alfredapp.com/",
+            "code": "alfred"
+        },
+        {
+            "id": "flux",
+            "type": "cask",
+            "name": "f.lux",
+            "description": "An app to make the color of your computer's display adapt to the time of day, warm at night and like sunlight during the day.",
+            "category": "productivity",
+            "download_url": "https://justgetflux.com/",
+            "code": "flux"
+        },
+        {
+            "id": "fantastical",
+            "type": "cask",
+            "name": "Fantastical",
+            "description": "The calendar app you won't be able to live without.",
+            "category": "productivity",
+            "download_url": "https://flexibits.com/fantastical",
+            "code": "fantastical"
+        },
+        {
+            "id": "android_studio",
+            "type": "cask",
+            "name": "Android Studio",
+            "description": "Android Studio provides the fastest tools for building apps on every type of Android device.",
+            "category": "ides",
+            "download_url": "https://developer.android.com/studio/",
+            "code": "android-studio"
+        },
+        {
+            "id": "visual_studio",
+            "type": "cask",
+            "name": "Visual Studio",
+            "description": "Fully-featured integrated development environment (IDE) for Android, iOS, macOS, web, and cloud",
+            "category": "ides",
+            "download_url": "https://visualstudio.microsoft.com/vs/",
+            "code": "visual-studio"
+        },
+        {
+            "id": "netbeans",
+            "type": "cask",
+            "name": "NetBeans",
+            "description": "Quickly and easily develop desktop, mobile, and web applications with Java, JavaScript, HTML5, PHP, C/C++ and more.",
+            "category": "ides",
+            "download_url": "https://netbeans.org/",
+            "code": "netbeans"
+        },
+        {
+            "id": "appcode",
+            "type": "cask",
+            "name": "JetBrains AppCode",
+            "description": "Smart IDE for iOS/macOS development",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/objc/",
+            "code": "appcode"
+        },
+        {
+            "id": "clion",
+            "type": "cask",
+            "name": "JetBrains CLion",
+            "description": "A cross-platform IDE for C and C++",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/clion/",
+            "code": "clion"
+        },
+        {
+            "id": "datagrip",
+            "type": "cask",
+            "name": "JetBrains DataGrip",
+            "description": "Many databases, one tool",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/datagrip/",
+            "code": "datagrip"
+        },
+        {
+            "id": "goland",
+            "type": "cask",
+            "name": "JetBrains GoLand",
+            "description": "A Clever IDE to Go",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/go/",
+            "code": "goland"
+        },
+        {
+            "id": "intellij_idea",
+            "type": "cask",
+            "name": "JetBrains IntelliJ IDEA",
+            "description": "",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/idea/",
+            "code": "intellij-idea"
+        },
+        {
+            "id": "intellij_idea_ce",
+            "type": "cask",
+            "name": "JetBrains IntelliJ IDEA (CE)",
+            "description": "",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/idea/",
+            "code": "intellij-idea-ce"
+        },
+        {
+            "id": "pycharm",
+            "type": "cask",
+            "name": "JetBrains PyCharm",
+            "description": "The Python IDE for Professional Developers",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/pycharm/",
+            "code": "pycharm"
+        },
+        {
+            "id": "pycharm_ce",
+            "type": "cask",
+            "name": "JetBrains PyCharm (CE)",
+            "description": "The Python IDE for Professional Developers",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/pycharm/",
+            "code": "pycharm-ce"
+        },
+        {
+            "id": "pycharm_edu",
+            "type": "cask",
+            "name": "JetBrains PyCharm (EDU)",
+            "description": "The Python IDE for Professional Developers",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/pycharm/",
+            "code": "pycharm-edu"
+        },
+        {
+            "id": "rider",
+            "type": "cask",
+            "name": "JetBrains Rider",
+            "description": "A fast & powerful, cross-platform .NET IDE",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/rider/",
+            "code": "rider"
+        },
+        {
+            "id": "webstorm",
+            "type": "cask",
+            "name": "JetBrains WebStorm",
+            "description": "The smartest JavaScript IDE",
+            "category": "ides",
+            "download_url": "https://www.jetbrains.com/webstorm/",
+            "code": "webstorm"
+        },
+        {
+            "id": "eclipse_ide",
+            "type": "cask",
+            "name": "Eclipse",
+            "description": "",
+            "category": "ides",
+            "download_url": "https://www.eclipse.org/",
+            "code": "eclipse-ide"
+        },
+        {
+            "id": "haskell_for_mac",
+            "type": "cask",
+            "name": "Haskell for Mac",
+            "description": "Haskell for Mac is the perfect environment for learning Haskell and functional programming.",
+            "category": "ides",
+            "download_url": "http://haskellformac.com/",
+            "code": "haskell-for-mac"
+        },
+        {
+            "id": "feeds",
+            "type": "cask",
+            "name": "Feeds 2",
+            "description": "Stay up-to-date with your favorite RSS feeds & web services from the comfort of your menu bar.",
+            "category": "rss",
+            "download_url": "http://www.feedsapp.com/",
+            "code": "feeds"
+        },
+        {
+            "id": "grammarly",
+            "type": "cask",
+            "name": "Grammarly",
+            "description": "Refine your english",
+            "category": "translation",
+            "download_url": "https://app.grammarly.com/",
+            "code": "grammarly"
+        },
+        {
+            "id": "1password",
+            "type": "cask",
+            "name": "1Password",
+            "description": "Cross-platform password management tool.",
+            "category": "password_management",
+            "download_url": "https://1password.com/",
+            "code": "1password"
+        },
+        {
+            "id": "docker",
+            "type": "cask",
+            "name": "Docker",
+            "description": "Powerful, performs operating-system-level virtualization.",
+            "category": "virtualization",
+            "download_url": "https://www.docker.com/",
+            "code": "docker"
+        },
+        {
+            "id": "parallels",
+            "type": "cask",
+            "name": "Parallels",
+            "description": "Powerful, easy-to-use VM. No free upgrade for each new Mac OS.",
+            "category": "virtualization",
+            "download_url": "https://www.parallels.com/",
+            "code": "parallels"
+        },
+        {
+            "id": "vagrant",
+            "type": "cask",
+            "name": "Vagrant",
+            "description": "Development Environments Made Easy.",
+            "category": "virtualization",
+            "download_url": "https://www.vagrantup.com/",
+            "code": "vagrant"
+        },
+        {
+            "id": "virtualbox",
+            "type": "cask",
+            "name": "VirtualBox",
+            "description": "VirtualBox is a powerful x86 and AMD64/Intel64 virtualization product for enterprise as well as home use.",
+            "category": "virtualization",
+            "download_url": "https://www.virtualbox.org/",
+            "code": "virtualbox"
+        },
+        {
+            "id": "vmware_fusion",
+            "type": "cask",
+            "name": "VMWare Fusion",
+            "description": "VMware Fusion gives Mac users the power to run Windows on Mac along with hundreds of other operating systems side by side with Mac applications, without rebooting.",
+            "category": "virtualization",
+            "download_url": "https://www.vmware.com/products/fusion.html",
+            "code": "vmware-fusion"
+        },
+        {
+            "id": "chrome",
+            "type": "cask",
+            "name": "Chrome",
+            "description": "Chrome, developed by Google",
+            "category": "browsers",
+            "download_url": "https://www.google.com/chrome/",
+            "code": "google-chrome"
+        },
+        {
+            "id": "firefox",
+            "type": "cask",
+            "name": "Firefox",
+            "description": "Meet Firefox Quantum. Fast, free, open-source web browser developed by the Mozilla Foundation.",
+            "category": "browsers",
+            "download_url": "https://www.mozilla.org/firefox/",
+            "code": "firefox"
+        },
+        {
+            "id": "torbrowser",
+            "type": "cask",
+            "name": "TorBrowser",
+            "description": "Anonymity Online. Protect your privacy. Defend against network surveillance and traffic analysis.",
+            "category": "browsers",
+            "download_url": "https://www.torproject.org/projects/torbrowser.html",
+            "code": "tor-browser"
+        },
+        {
+            "id": "opera",
+            "type": "cask",
+            "name": "Opera",
+            "description": "Fast, secure, easy-to-use browser",
+            "category": "browsers",
+            "download_url": "https://www.opera.com/",
+            "code": "opera"
+        },
+        {
+            "id": "slack",
+            "type": "cask",
+            "name": "Slack",
+            "description": "Awesome tool for team collaboration and communication.",
+            "category": "communication",
+            "download_url": "https://slack.com/",
+            "code": "slack"
+        },
+        {
+            "id": "skype",
+            "type": "cask",
+            "name": "Skype",
+            "description": "Cross-platform application that provides video chat and voice call services. Users can exchange images, text, video and any other digital documents.",
+            "category": "communication",
+            "download_url": "https://skype.com/",
+            "code": "skype"
+        },
+        {
+            "id": "telegram",
+            "type": "cask",
+            "name": "Telegram",
+            "description": "Messaging app with a focus on speed and security.",
+            "category": "communication",
+            "download_url": "https://desktop.telegram.org/",
+            "code": "telegram"
+        },
+        {
+            "id": "whatsapp",
+            "type": "cask",
+            "name": "WhatsApp Desktop",
+            "description": "With WhatsApp on the desktop, you can seamlessly sync all of your chats to your computer so that you can chat on whatever device is most convenient for you.",
+            "category": "communication",
+            "download_url": "https://www.whatsapp.com/",
+            "code": "whatsapp"
+        },
+        {
+            "id": "github",
+            "type": "cask",
+            "name": "Github Desktop",
+            "description": "Extend your GitHub workflow beyond your browser with GitHub Desktop, completely redesigned with Electron. Get a unified cross-platform experience that’s completely open source and ready to customize.",
+            "category": "version_control",
+            "download_url": "https://desktop.github.com/",
+            "code": "github"
+        },
+        {
+            "id": "sourcetree",
+            "type": "cask",
+            "name": "Sourcetree",
+            "description": "Sourcetree simplifies how you interact with your Git repositories so you can focus on coding. Visualize and manage your repositories through Sourcetree's simple Git GUI.",
+            "category": "version_control",
+            "download_url": "https://www.sourcetreeapp.com/",
+            "code": "sourcetree"
+        },
+        {
+            "id": "fork",
+            "type": "cask",
+            "name": "Fork",
+            "description": "A fast and friendly git client for Mac and Windows",
+            "category": "version_control",
+            "download_url": "https://git-fork.com/",
+            "code": "fork"
+        },
+        {
+            "id": "gitkraken",
+            "type": "cask",
+            "name": "GitKraken",
+            "description": "See how our Git client can make you a more productive Git user!",
+            "category": "version_control",
+            "download_url": "https://www.gitkraken.com/",
+            "code": "gitkraken"
+        },
+        {
+            "id": "tower",
+            "type": "cask",
+            "name": "Tower",
+            "description": "The most powerful Git client for Mac and Windows.",
+            "category": "version_control",
+            "download_url": "https://www.git-tower.com/",
+            "code": "tower"
+        },
+        {
+            "id": "sublime_merge",
+            "type": "cask",
+            "name": "Sublime Merge",
+            "description": "Meet a new Git Client, from the makers of Sublime Text",
+            "category": "version_control",
+            "download_url": "https://www.sublimemerge.com/",
+            "code": "sublime-merge"
+        },
+        {
+            "id": "gitfinder",
+            "type": "cask",
+            "name": "GitFinder",
+            "description": "A fast and lightweight Git client for Mac with Finder integration.",
+            "category": "version_control",
+            "download_url": "https://gitfinder.com/",
+            "code": "gitfinder"
+        },
+        {
+            "id": "cornerstone",
+            "type": "cask",
+            "name": "Cornerstone",
+            "description": "The ultimate Subversion client for Mac just got better with Shelving, Checkpointing, and blazing fast performance.",
+            "category": "version_control",
+            "download_url": "https://cornerstone.assembla.com/",
+            "code": "cornerstone"
+        },
+        {
+            "id": "python",
+            "type": "brew",
+            "name": "Python",
+            "description": "A programming language that lets you work quickly and integrate systems more effectively.",
+            "category": "homebrew_packages",
+            "download_url": "https://www.python.org/",
+            "code": "python"
+        },
+        {
+            "id": "python_3",
+            "type": "brew",
+            "name": "Python 3",
+            "description": "A programming language that lets you work quickly and integrate systems more effectively.",
+            "category": "homebrew_packages",
+            "download_url": "https://www.python.org/",
+            "code": "python3"
+        },
+        {
+            "id": "node",
+            "type": "brew",
+            "name": "Node.js",
+            "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+            "category": "homebrew_packages",
+            "download_url": "https://nodejs.org/",
+            "code": "node"
+        },
+        {
+            "id": "htop",
+            "type": "brew",
+            "name": "HTOP",
+            "description": "An interactive process viewer for Unix.",
+            "category": "homebrew_packages",
+            "download_url": "https://hisham.hm/htop/",
+            "code": "htop"
+        },
+        {
+            "id": "watch",
+            "type": "brew",
+            "name": "watch",
+            "description": "watch is used to run any designated command at regular intervals.",
+            "category": "homebrew_packages",
+            "code": "watch"
+        },
+        {
+            "id": "wget",
+            "type": "brew",
+            "name": "Wget",
+            "description": "A free software package for retrieving files using HTTP, HTTPS, FTP and FTPS the most widely-used Internet protocols.",
+            "category": "homebrew_packages",
+            "download_url": "https://www.gnu.org/software/wget/",
+            "code": "wget"
+        },
+        {
+            "id": "asciinema",
+            "type": "brew",
+            "name": "asciinema",
+            "description": "Record and share your terminal sessions, the right way.",
+            "category": "homebrew_packages",
+            "download_url": "https://asciinema.org/",
+            "code": "asciinema"
+        },
+        {
+            "id": "bash",
+            "type": "brew",
+            "name": "Bash",
+            "description": "Bash is a command processor that typically runs in a text window where the user types commands that cause actions.",
+            "category": "homebrew_packages",
+            "code": "bash"
+        },
+        {
+            "id": "cmake",
+            "type": "brew",
+            "name": "CMake",
+            "description": "CMake is an open-source, cross-platform family of tools designed to build, test and package software.",
+            "category": "homebrew_packages",
+            "download_url": "https://cmake.org/",
+            "code": "cmake"
+        },
+        {
+            "id": "colordiff",
+            "type": "brew",
+            "name": "colordiff",
+            "description": "colordiff is a wrapper for 'diff' and produces the same output but with pretty 'syntax' highlighting.",
+            "category": "homebrew_packages",
+            "download_url": "https://www.colordiff.org/",
+            "code": "colordiff"
+        },
+        {
+            "id": "cowsay",
+            "type": "brew",
+            "name": "cowsay",
+            "description": "cowsay is a program that generates ASCII pictures of a cow with a message",
+            "category": "homebrew_packages",
+            "code": "cowsay"
+        },
+        {
+            "id": "curl",
+            "type": "brew",
+            "name": "cURL",
+            "description": "command line tool and library for transferring data with URLs",
+            "category": "homebrew_packages",
+            "download_url": "https://curl.haxx.se/",
+            "code": "curl"
+        },
+        {
+            "id": "fswatch",
+            "type": "brew",
+            "name": "fswatch",
+            "description": "A file change monitor that receives notifications when the contents of the specified files or directories are modified.",
+            "category": "homebrew_packages",
+            "download_url": "https://github.com/emcrisostomo/fswatch",
+            "code": "fswatch"
+        },
+        {
+            "id": "imagemagick",
+            "type": "brew",
+            "name": "ImageMagick",
+            "description": "Use ImageMagick to create, edit, compose, or convert bitmap images.",
+            "category": "homebrew_packages",
+            "download_url": "https://imagemagick.org/",
+            "code": "imagemagick"
+        },
+        {
+            "id": "npm",
+            "type": "brew",
+            "name": "NPM",
+            "description": "npm is the package manager for JavaScript and the world’s largest software registry.",
+            "category": "homebrew_packages",
+            "download_url": "https://www.npmjs.com/",
+            "code": "npm"
+        },
+        {
+            "id": "perl",
+            "type": "perl",
+            "name": "Perl",
+            "description": "The Perl Programming Language.",
+            "category": "homebrew_packages",
+            "code": "perl"
+        },
+        {
+            "id": "ruby",
+            "type": "brew",
+            "name": "Ruby",
+            "description": "A dynamic, open source programming language with a focus on simplicity and productivity.",
+            "category": "homebrew_packages",
+            "download_url": "https://www.ruby-lang.org/en/",
+            "code": "ruby"
+        },
+        {
+            "id": "cocoapods",
+            "type": "gem",
+            "name": "CocoaPods",
+            "description": "A dependency manager for Swift and Objective-C Cocoa projects. It has over 56 thousand libraries and is used in over 3 million apps. CocoaPods can help you scale your projects elegantly.",
+            "category": "ruby_gems",
+            "download_url": "https://cocoapods.org/",
+            "code": "cocoapods"
+        },
+        {
+            "id": "fastlane",
+            "type": "gem",
+            "name": "Fastlane",
+            "description": "The easiest way to build and release mobile apps. fastlane handles tedious tasks so you don’t have to.",
+            "category": "ruby_gems",
+            "download_url": "https://fastlane.tools/",
+            "code": "fastlane -NV"
+        },
+        {
+            "id": "fast_key_repeat",
+            "type": "defaults",
+            "name": "Fast Key Repeat",
+            "description": "Set 'Key Repeat' to 'Fast' in System Prefrences → Keyboard",
+            "category": "os_settings",
+            "code": "write -g InitialKeyRepeat -int 15"
+        },
+        {
+            "id": "short_delay_until_repeat",
+            "type": "defaults",
+            "name": "Short Delay Until Repeat",
+            "description": "Set 'Delay Until Repeat' to 'Short' in System Prefrences → Keyboard",
+            "category": "os_settings",
+            "code": "write -g KeyRepeat -int 2"
+        },
+        {
+            "id": "tap_to_click",
+            "type": "defaults",
+            "name": "Enable Tap To Click",
+            "description": "Enable 'Tap To Click' in System Prefrences → Trackpad",
+            "category": "os_settings",
+            "code": "write com.apple.AppleMultitouchTrackpad Clicking -bool true"
+        }
+    ]
+}
