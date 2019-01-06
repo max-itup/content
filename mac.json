@@ -203,6 +203,15 @@
             "code": "fantastical"
         },
         {
+            "id": "daisydisk",
+            "type": "cask",
+            "name": "DaisyDisk",
+            "description": "Get a visual breakdown of your disk space in form of an interactive map, reveal the biggest space wasters, and remove them with a simple drag and drop.",
+            "category": "productivity",
+            "download_url": "https://daisydiskapp.com",
+            "code": "daisydisk"
+        },
+        {
             "id": "android_studio",
             "type": "cask",
             "name": "Android Studio",
