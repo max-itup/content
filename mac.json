@@ -652,6 +652,15 @@
       "code": "sketch"
     },
     {
+      "id": "zeplin",
+      "type": "cask",
+      "name": "Zeplin",
+      "description": "Zeplin is all about the details. Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.",
+      "category": "design",
+      "download_url": "https://zeplin.io/",
+      "code": "zeplin"
+    },
+    {
       "id": "gimp",
       "type": "cask",
       "name": "Gimp",
