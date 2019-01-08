@@ -16,13 +16,13 @@
       "order": 3
     },
     {
-      "id": "data_recovery_tools",
-      "name": "Data Recovery Tools",
+      "id": "data_recovery",
+      "name": "Data Recovery",
       "order": 4
     },
     {
-      "id": "design_tools",
-      "name": "Design Tools",
+      "id": "design",
+      "name": "Design",
       "order": 5
     },
     {
@@ -605,6 +605,105 @@
       "category": "version_control",
       "download_url": "https://cornerstone.assembla.com/",
       "code": "cornerstone"
+    },
+    {
+      "id": "dropbox",
+      "type": "cask",
+      "name": "Dropbox",
+      "description": "File hosting service that offers cloud storage and file synchronization with collaborative edit features.",
+      "category": "cloud_storage",
+      "download_url": "https://dropbox.com/",
+      "code": "dropbox"
+    },
+    {
+      "id": "google_backup_and_sync",
+      "type": "cask",
+      "name": "Google Drive",
+      "description": "Back up files from your computer, camera, or SD cards to the cloud. Find your files on any device or computer using Google Drive, and see your photos in Google Photos.",
+      "category": "cloud_storage",
+      "download_url": "https://www.google.com/drive/download/",
+      "code": "google-backup-and-sync"
+    },
+    {
+      "id": "megasync",
+      "type": "cask",
+      "name": "Mega Desktop",
+      "description": "Easy automated synchronisation between your computer and your MEGA cloud.",
+      "category": "cloud_storage",
+      "download_url": "https://mega.nz/",
+      "code": "megasync"
+    },
+    {
+      "id": "data_rescue",
+      "type": "cask",
+      "name": "Data Rescue 5",
+      "description": "Comprehensive and professional data recovery tool for most cases.",
+      "category": "data_recovery",
+      "download_url": "https://www.prosofteng.com/mac-data-recovery/",
+      "code": "data-rescue"
+    },
+    {
+      "id": "sketch",
+      "type": "cask",
+      "name": "Sketch",
+      "description": "Professional digital design for mac.",
+      "category": "design",
+      "download_url": "https://www.sketchapp.com/",
+      "code": "sketch"
+    },
+    {
+      "id": "gimp",
+      "type": "cask",
+      "name": "Gimp",
+      "description": "The Free & Open Source Image Editor.",
+      "category": "design",
+      "download_url": "https://www.gimp.org/",
+      "code": "gimp"
+    },
+    {
+      "id": "adobe-creative-cloud",
+      "type": "cask",
+      "name": "Adobe Creative Cloud",
+      "description": "The world's best apps and services for video, design, photography, and the web.",
+      "category": "design",
+      "download_url": "https://www.adobe.com/creativecloud.html",
+      "code": "adobe-creative-cloud"
+    },
+    {
+      "id": "folx",
+      "type": "cask",
+      "name": "FOLX",
+      "description": "Folx is a free download manager for macOS with a true Mac-style interface. It offers convenient downloads managing, flexible settings, etc. Folx has a unique system of sorting and keeping the downloaded content.",
+      "category": "download_anagement",
+      "download_url": "https://mac.eltima.com/download-manager.html",
+      "code": "folx"
+    },
+    {
+      "id": "shimo",
+      "type": "cask",
+      "name": "Shimo",
+      "description": "VPN Client for Mac.",
+      "category": "proxy_and_vpn",
+      "download_url": "https://www.shimovpn.com/",
+      "code": "shimo"
+    },
+    {
+      "id": "teamviewer",
+      "type": "Teamviewer",
+      "name": "Cornerstone",
+      "description": "The ultimate Subversion client for Mac just got better with Shelving, Checkpointing, and blazing fast performance.",
+      "category": "remote_access",
+      "download_url": "https://www.teamviewer.com/",
+      "code": "teamviewer"
+    },
+    {
+      "id": "clipy",
+      "type": "cask",
+      "name": "Clipy",
+      "description": "Clipy is a Clipboard extension app for macOS.",
+      "category": "utilities",
+      "download_url": "https://cornerstone.assembla.com/",
+      "code": "clipy"
     },
     {
       "id": "python",
