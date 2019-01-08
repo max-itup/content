@@ -721,6 +721,33 @@
             "code": "ruby"
         },
         {
+            "id": "swiftlint",
+            "type": "brew",
+            "name": "SwiftLint",
+            "description": "A tool to enforce Swift style and conventions, loosely based on GitHub's Swift Style Guide.",
+            "category": "homebrew_packages",
+            "download_url": "https://github.com/realm/SwiftLint",
+            "code": "swiftlint"
+        },
+        {
+            "id": "xcodegen",
+            "type": "brew",
+            "name": "XcodeGen",
+            "description": "XcodeGen is a command line tool written in Swift that generates your Xcode project using your folder structure and a project spec.",
+            "category": "homebrew_packages",
+            "download_url": "https://github.com/yonaskolb/XcodeGen",
+            "code": "xcodegen"
+        },
+        {
+            "id": "swiftgen",
+            "type": "brew",
+            "name": "SwiftGen",
+            "description": "SwiftGen is a tool to auto-generate Swift code for resources of your projects, to make them type-safe to use.",
+            "category": "homebrew_packages",
+            "download_url": "https://github.com/SwiftGen/SwiftGen",
+            "code": "swiftgen"
+        },
+        {
             "id": "cocoapods",
             "type": "gem",
             "name": "CocoaPods",
