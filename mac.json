@@ -675,7 +675,7 @@
       "code": "gimp"
     },
     {
-      "id": "adobe-creative-cloud",
+      "id": "adobe_creative_cloud",
       "type": "cask",
       "name": "Adobe Creative Cloud",
       "description": "The world's best apps and services for video, design, photography, and the web.",
