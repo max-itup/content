@@ -26,7 +26,7 @@
       "order": 5
     },
     {
-      "id": "download_anagement",
+      "id": "download_management",
       "name": "Download Management",
       "order": 6
     },
@@ -688,9 +688,18 @@
       "type": "cask",
       "name": "FOLX",
       "description": "Folx is a free download manager for macOS with a true Mac-style interface. It offers convenient downloads managing, flexible settings, etc. Folx has a unique system of sorting and keeping the downloaded content.",
-      "category": "download_anagement",
+      "category": "download_management",
       "download_url": "https://mac.eltima.com/download-manager.html",
       "code": "folx"
+    },
+    {
+      "id": "transmission",
+      "type": "cask",
+      "name": "Transmission",
+      "description": "A fast, lightweight and solid BitTorrent client for macOS.",
+      "category": "download_management",
+      "download_url": "https://transmissionbt.com/",
+      "code": "transmission"
     },
     {
       "id": "shimo",
