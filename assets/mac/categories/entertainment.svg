@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="46px" height="46px" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>entertainment</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="4.05144999e-16 0 28 0 28 33 4.05144999e-16 33"></polygon>
+    </defs>
+    <g id="entertainment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="music-player-play" transform="translate(10.000000, 7.000000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <g id="Clip-2"></g>
+            <path d="M26.4864507,14.1618386 L4.49519518,0.326005616 C3.84516964,-0.0604602378 3.03748666,0.00403958058 2.42803211,0.00403958058 C-0.0110316968,0.00403958058 7.65164827e-07,1.88430701 7.65164827e-07,2.36050402 L7.65164827e-07,30.6394988 C7.65164827e-07,31.0419563 -0.010497868,32.9959632 2.42803211,32.9959632 C3.03748666,32.9959632 3.84516964,33.060463 4.49519518,32.6738195 L26.4864507,18.8379865 C28.2915039,17.7656549 27.9793919,16.499646 27.9793919,16.499646 C27.9793919,16.499646 28.2915039,15.2343479 26.4864507,14.1618386 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+        </g>
+    </g>
+</svg>
