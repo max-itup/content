@@ -909,6 +909,33 @@
       "code": "fastlane -NV"
     },
     {
+      "id": "jazzy",
+      "type": "gem",
+      "name": "Jazzy",
+      "description": "A command-line utility that generates documentation for Swift or Objective-C.",
+      "category": "ruby_gems",
+      "download_url": "https://github.com/realm/jazzy",
+      "code": "jazzy"
+    },
+    {
+      "id": "xcpretty",
+      "type": "gem",
+      "name": "XCPretty",
+      "description": "A fast and flexible formatter for xcodebuild. It does one thing, and it should do it well.",
+      "category": "ruby_gems",
+      "download_url": "https://github.com/supermarin/xcpretty",
+      "code": "xcpretty"
+    },
+    {
+      "id": "bundler",
+      "type": "gem",
+      "name": "Bundler",
+      "description": "Bundler provides a consistent environment for Ruby projects by tracking and installing the exact gems and versions that are needed.",
+      "category": "ruby_gems",
+      "download_url": "https://bundler.io/",
+      "code": "bundler"
+    },
+    {
       "id": "fast_key_repeat",
       "type": "defaults",
       "name": "Fast Key Repeat",
