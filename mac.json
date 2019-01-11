@@ -712,9 +712,9 @@
     },
     {
       "id": "teamviewer",
-      "type": "Teamviewer",
-      "name": "Cornerstone",
-      "description": "The ultimate Subversion client for Mac just got better with Shelving, Checkpointing, and blazing fast performance.",
+      "type": "cask",
+      "name": "Teamviewer",
+      "description": "Establish incoming and outgoing remote desktop and computer-to-computer connections for real-time support.",
       "category": "remote_access",
       "download_url": "https://www.teamviewer.com/",
       "code": "teamviewer"
