@@ -477,6 +477,15 @@
       "code": "google-chrome"
     },
     {
+      "id": "brave_browser",
+      "type": "cask",
+      "name": "Brave",
+      "description": "Why use a browser that treats you like one? Enjoy private, secure and fast browsing with Brave.",
+      "category": "browsers",
+      "download_url": "https://brave.com/",
+      "code": "brave-browser"
+    },
+    {
       "id": "firefox",
       "type": "cask",
       "name": "Firefox",
