@@ -176,6 +176,15 @@
       "code": "textmate"
     },
     {
+      "id": "macdown",
+      "type": "cask",
+      "name": "MacDown",
+      "description": "The open source Markdown editor for macOS.",
+      "category": "text_editors",
+      "download_url": "https://macdown.uranusjr.com/",
+      "code": "macdown"
+    },
+    {
       "id": "libreoffice",
       "type": "cask",
       "name": "LibreOffice",
