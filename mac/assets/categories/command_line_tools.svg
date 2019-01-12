@@ -4,10 +4,10 @@
     <title>command_line_tools</title>
     <desc>Created with Sketch.</desc>
     <g id="command_line_tools" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="terminal" transform="translate(5.000000, 7.000000)" fill="#FFFFFF">
-            <polygon id="Fill-1" points="11.3049445 9 9 11.2519206 14.3901111 16.5180354 9.0187323 21.729778 11.3419734 24 19 16.5180354"></polygon>
-            <polygon id="Fill-2" points="18 25 27 25 27 21 18 21"></polygon>
-            <path d="M0,32 L36,32 L36,0 L0,0 L0,32 Z M3.59997891,28.4444676 L32.4000211,28.4444676 L32.4000211,3.55553241 L3.59997891,3.55553241 L3.59997891,28.4444676 Z" id="Fill-3"></path>
+        <g id="terminal" transform="translate(8.000000, 10.000000)" fill="#FFFFFF">
+            <polygon id="Fill-1" points="9.42078705 7.5 7.5 9.37660048 11.9917592 13.7650295 7.51561025 18.1081484 9.45164452 20 15.8333333 13.7650295"></polygon>
+            <polygon id="Fill-2" points="15 20.8333333 22.5 20.8333333 22.5 17.5 15 17.5"></polygon>
+            <path d="M0,26.6666667 L30,26.6666667 L30,0 L0,0 L0,26.6666667 Z M2.99998242,23.703723 L27.0000176,23.703723 L27.0000176,2.96294367 L2.99998242,2.96294367 L2.99998242,23.703723 Z" id="Fill-3"></path>
         </g>
     </g>
 </svg>
