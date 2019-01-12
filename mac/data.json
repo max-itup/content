@@ -16,94 +16,99 @@
       "order": 3
     },
     {
+      "id": "command_line_tools",
+      "name": "Command Line Tools",
+      "order": 4
+    },
+    {
       "id": "data_recovery",
       "name": "Data Recovery",
-      "order": 4
+      "order": 5
     },
     {
       "id": "design",
       "name": "Design",
-      "order": 5
+      "order": 6
     },
     {
       "id": "download_management",
       "name": "Download Management",
-      "order": 6
+      "order": 7
     },
     {
       "id": "entertainment",
       "name": "Entertainment",
-      "order": 7
+      "order": 8
     },
     {
       "id": "ides",
       "name": "IDEs",
-      "order": 8
+      "order": 9
     },
     {
       "id": "password_management",
       "name": "Password Management",
-      "order": 9
+      "order": 10
     },
     {
       "id": "productivity",
       "name": "Productivity",
-      "order": 10
+      "order": 11
     },
     {
       "id": "proxy_and_vpn",
       "name": "Proxy and VPN",
-      "order": 11
+      "order": 12
     },
     {
       "id": "remote_access",
       "name": "Remote Access",
-      "order": 12
+      "order": 13
     },
     {
       "id": "rss",
       "name": "RSS",
-      "order": 13
+      "order": 14
     },
     {
       "id": "text_editors",
       "name": "Text Editors",
-      "order": 14
+      "order": 15
     },
     {
       "id": "translation",
       "name": "Translation Tools",
-      "order": 15
+      "order": 16
     },
     {
       "id": "utilities",
       "name": "Utilities",
-      "order": 16
+      "order": 17
     },
     {
       "id": "version_control",
       "name": "Version Control",
-      "order": 17
+      "order": 18
     },
     {
       "id": "virtualization",
       "name": "Virtualization",
-      "order": 18
+      "order": 19
     },
     {
       "id": "homebrew_packages",
       "name": "Homebrew Packages",
-      "order": 19
+      "order": 20
     },
     {
       "id": "ruby_gems",
       "name": "Ruby Gems",
-      "order": 20
+      "order": 21
     },
     {
       "id": "os_settings",
       "name": "OS Settings",
-      "order": 21
+      "order": 22
     }
   ],
   "items": [
@@ -790,6 +795,24 @@
       "category": "utilities",
       "download_url": "https://www.obdev.at/products/littlesnitch/index.html",
       "code": "little-snitch"
+    },
+    {
+      "id": "iterm2",
+      "type": "cask",
+      "name": "iTerm2",
+      "description": "iTerm2 is an amazing terminal emulator for MacOS.",
+      "category": "command_line_tools",
+      "download_url": "https://www.iterm2.com/",
+      "code": "iterm2"
+    },
+    {
+      "id": "hyper",
+      "type": "cask",
+      "name": "Hyper",
+      "description": "A terminal built on web technologies",
+      "category": "command_line_tools",
+      "download_url": "https://hyper.is/",
+      "code": "hyper"
     },
     {
       "id": "python",
