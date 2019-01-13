@@ -21,94 +21,99 @@
       "order": 4
     },
     {
+      "id": "databases",
+      "name": "Databases",
+      "order": 5
+    },
+    {
       "id": "data_recovery",
       "name": "Data Recovery",
-      "order": 5
+      "order": 6
     },
     {
       "id": "design",
       "name": "Design",
-      "order": 6
+      "order": 7
     },
     {
       "id": "download_management",
       "name": "Download Management",
-      "order": 7
+      "order": 8
     },
     {
       "id": "entertainment",
       "name": "Entertainment",
-      "order": 8
+      "order": 9
     },
     {
       "id": "ides",
       "name": "IDEs",
-      "order": 9
+      "order": 10
     },
     {
       "id": "password_management",
       "name": "Password Management",
-      "order": 10
+      "order": 11
     },
     {
       "id": "productivity",
       "name": "Productivity",
-      "order": 11
+      "order": 12
     },
     {
       "id": "proxy_and_vpn",
       "name": "Proxy and VPN",
-      "order": 12
+      "order": 13
     },
     {
       "id": "remote_access",
       "name": "Remote Access",
-      "order": 13
+      "order": 14
     },
     {
       "id": "rss",
       "name": "RSS",
-      "order": 14
+      "order": 15
     },
     {
       "id": "text_editors",
       "name": "Text Editors",
-      "order": 15
+      "order": 16
     },
     {
       "id": "translation",
       "name": "Translation Tools",
-      "order": 16
+      "order": 17
     },
     {
       "id": "utilities",
       "name": "Utilities",
-      "order": 17
+      "order": 18
     },
     {
       "id": "version_control",
       "name": "Version Control",
-      "order": 18
+      "order": 19
     },
     {
       "id": "virtualization",
       "name": "Virtualization",
-      "order": 19
+      "order": 10
     },
     {
       "id": "homebrew_packages",
       "name": "Homebrew Packages",
-      "order": 20
+      "order": 21
     },
     {
       "id": "ruby_gems",
       "name": "Ruby Gems",
-      "order": 21
+      "order": 22
     },
     {
       "id": "os_settings",
       "name": "OS Settings",
-      "order": 22
+      "order": 23
     }
   ],
   "items": [
@@ -678,6 +683,24 @@
       "category": "data_recovery",
       "download_url": "https://www.prosofteng.com/mac-data-recovery/",
       "code": "data-rescue"
+    },
+    {
+      "id": "tableplus",
+      "type": "cask",
+      "name": "TablePlus",
+      "description": "Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more.",
+      "category": "databases",
+      "download_url": "https://tableplus.io/",
+      "code": "tableplus"
+    },
+    {
+      "id": "sequel_pro",
+      "type": "cask",
+      "name": "Sequel Pro",
+      "description": "MySQL database management for MacOS.",
+      "category": "databases",
+      "download_url": "https://tableplus.io/",
+      "code": "sequel-pro"
     },
     {
       "id": "sketch",
