@@ -563,6 +563,15 @@
       "code": "whatsapp"
     },
     {
+      "id": "discord",
+      "type": "cask",
+      "name": "Discord",
+      "description": "All-in-one voice and text chat for gamers that's free, secure, and works on both your desktop and phone.",
+      "category": "communication",
+      "download_url": "https://discordapp.com/",
+      "code": "discord"
+    },
+    {
       "id": "github",
       "type": "cask",
       "name": "Github Desktop",
