@@ -743,6 +743,15 @@
       "code": "teamviewer"
     },
     {
+      "id": "anydesk",
+      "type": "cask",
+      "name": "AnyDesk",
+      "description": "Remote Desktop Software That Actually Works.",
+      "category": "remote_access",
+      "download_url": "https://anydesk.com/remote-desktop",
+      "code": "anydesk"
+    },
+    {
       "id": "clipy",
       "type": "cask",
       "name": "Clipy",
