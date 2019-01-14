@@ -429,6 +429,15 @@
       "code": "haskell-for-mac"
     },
     {
+      "id": "phpstorm",
+      "type": "cask",
+      "name": "PhpStorm",
+      "description": "The Lightning-Smart PHP IDE.",
+      "category": "ides",
+      "download_url": "https://www.jetbrains.com/phpstorm/",
+      "code": "phpstorm"
+    },
+    {
       "id": "feeds",
       "type": "cask",
       "name": "Feeds 2",
