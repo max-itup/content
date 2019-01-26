@@ -116,9 +116,14 @@
       "order": 23
     },
     {
+      "id": "programming_languages",
+      "name": "Programming Languages",
+      "order": 24
+    },
+    {
       "id": "os_settings",
       "name": "OS Settings",
-      "order": 24
+      "order": 25
     }
   ],
   "items": [
@@ -898,33 +903,6 @@
       "code": "hyper"
     },
     {
-      "id": "python",
-      "type": "brew",
-      "name": "Python",
-      "description": "A programming language that lets you work quickly and integrate systems more effectively.",
-      "category": "homebrew_packages",
-      "download_url": "https://www.python.org/",
-      "code": "python"
-    },
-    {
-      "id": "python_3",
-      "type": "brew",
-      "name": "Python 3",
-      "description": "A programming language that lets you work quickly and integrate systems more effectively.",
-      "category": "homebrew_packages",
-      "download_url": "https://www.python.org/",
-      "code": "python3"
-    },
-    {
-      "id": "node",
-      "type": "brew",
-      "name": "Node.js",
-      "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
-      "category": "homebrew_packages",
-      "download_url": "https://nodejs.org/",
-      "code": "node"
-    },
-    {
       "id": "htop",
       "type": "brew",
       "name": "HTOP",
@@ -958,14 +936,6 @@
       "category": "homebrew_packages",
       "download_url": "https://asciinema.org/",
       "code": "asciinema"
-    },
-    {
-      "id": "bash",
-      "type": "brew",
-      "name": "Bash",
-      "description": "Bash is a command processor that typically runs in a text window where the user types commands that cause actions.",
-      "category": "homebrew_packages",
-      "code": "bash"
     },
     {
       "id": "cmake",
@@ -1030,23 +1000,6 @@
       "code": "npm"
     },
     {
-      "id": "perl",
-      "type": "brew",
-      "name": "Perl",
-      "description": "The Perl Programming Language.",
-      "category": "homebrew_packages",
-      "code": "perl"
-    },
-    {
-      "id": "ruby",
-      "type": "brew",
-      "name": "Ruby",
-      "description": "A dynamic, open source programming language with a focus on simplicity and productivity.",
-      "category": "homebrew_packages",
-      "download_url": "https://www.ruby-lang.org/en/",
-      "code": "ruby"
-    },
-    {
       "id": "swiftlint",
       "type": "brew",
       "name": "SwiftLint",
@@ -1072,6 +1025,112 @@
       "category": "homebrew_packages",
       "download_url": "https://github.com/SwiftGen/SwiftGen",
       "code": "swiftgen"
+    },
+    {
+      "id": "carthage",
+      "type": "brew",
+      "name": "Carthage",
+      "description": "A simple, decentralized dependency manager for Cocoa.",
+      "category": "homebrew_packages",
+      "download_url": "https://github.com/Carthage/Carthage",
+      "code": "carthage"
+    },
+    {
+      "id": "coreutils",
+      "type": "brew",
+      "name": "coreutils",
+      "description": "GNU File, Shell, and Text utilities.",
+      "category": "homebrew_packages",
+      "download_url": "https://www.gnu.org/software/coreutils/",
+      "code": "coreutils"
+    },
+    {
+      "id": "git",
+      "type": "brew",
+      "name": "Git",
+      "description": "Distributed revision control system.",
+      "category": "homebrew_packages",
+      "download_url": "https://git-scm.com/",
+      "code": "git"
+    },
+    {
+      "id": "git_flow",
+      "type": "brew",
+      "name": "git-flow",
+      "description": "Extensions to follow Vincent Driessen's branching model",
+      "category": "homebrew_packages",
+      "download_url": "https://github.com/nvie/gitflow",
+      "code": "git-flow"
+    },
+    {
+      "id": "go",
+      "type": "brew",
+      "name": "Go",
+      "description": "An open source programming language that makes it easy to build simple, reliable, and efficient software.",
+      "category": "programming_languages",
+      "download_url": "https://golang.org/",
+      "code": "go"
+    },
+    {
+      "id": "rust",
+      "type": "brew",
+      "name": "Rust",
+      "description": "Safe, concurrent, practical programming language.",
+      "category": "programming_languages",
+      "download_url": "https://www.rust-lang.org/",
+      "code": "rust"
+    },
+    {
+      "id": "python",
+      "type": "brew",
+      "name": "Python",
+      "description": "A programming language that lets you work quickly and integrate systems more effectively.",
+      "category": "programming_languages",
+      "download_url": "https://www.python.org/",
+      "code": "python"
+    },
+    {
+      "id": "python_3",
+      "type": "brew",
+      "name": "Python 3",
+      "description": "A programming language that lets you work quickly and integrate systems more effectively.",
+      "category": "programming_languages",
+      "download_url": "https://www.python.org/",
+      "code": "python3"
+    },
+    {
+      "id": "node",
+      "type": "brew",
+      "name": "Node.js",
+      "description": "Node.js® is a JavaScript runtime built on Chrome's V8 JavaScript engine.",
+      "category": "programming_languages",
+      "download_url": "https://nodejs.org/",
+      "code": "node"
+    },
+    {
+      "id": "perl",
+      "type": "brew",
+      "name": "Perl",
+      "description": "The Perl Programming Language.",
+      "category": "programming_languages",
+      "code": "perl"
+    },
+    {
+      "id": "ruby",
+      "type": "brew",
+      "name": "Ruby",
+      "description": "A dynamic, open source programming language with a focus on simplicity and productivity.",
+      "category": "programming_languages",
+      "download_url": "https://www.ruby-lang.org/en/",
+      "code": "ruby"
+    },
+    {
+      "id": "bash",
+      "type": "brew",
+      "name": "Bash",
+      "description": "Bash is a command processor that typically runs in a text window where the user types commands that cause actions.",
+      "category": "programming_languages",
+      "code": "bash"
     },
     {
       "id": "cocoapods",
