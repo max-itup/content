@@ -56,74 +56,79 @@
       "order": 11
     },
     {
+      "id": "development_tools",
+      "name": "Development Tools",
+      "order": 12
+    },
+    {
       "id": "password_management",
       "name": "Password Management",
-      "order": 12
+      "order": 13
     },
     {
       "id": "productivity",
       "name": "Productivity",
-      "order": 13
+      "order": 14
     },
     {
       "id": "proxy_and_vpn",
       "name": "Proxy and VPN",
-      "order": 14
+      "order": 15
     },
     {
       "id": "remote_access",
       "name": "Remote Access",
-      "order": 15
+      "order": 16
     },
     {
       "id": "rss",
       "name": "RSS",
-      "order": 16
+      "order": 17
     },
     {
       "id": "text_editors",
       "name": "Text Editors",
-      "order": 17
+      "order": 18
     },
     {
       "id": "translation",
       "name": "Translation Tools",
-      "order": 18
+      "order": 19
     },
     {
       "id": "utilities",
       "name": "Utilities",
-      "order": 19
+      "order": 20
     },
     {
       "id": "version_control",
       "name": "Version Control",
-      "order": 20
+      "order": 21
     },
     {
       "id": "virtualization",
       "name": "Virtualization",
-      "order": 21
+      "order": 22
     },
     {
       "id": "homebrew_packages",
       "name": "Homebrew Packages",
-      "order": 22
+      "order": 23
     },
     {
       "id": "ruby_gems",
       "name": "Ruby Gems",
-      "order": 23
+      "order": 24
     },
     {
       "id": "programming_languages",
       "name": "Programming Languages",
-      "order": 24
+      "order": 25
     },
     {
       "id": "os_settings",
       "name": "OS Settings",
-      "order": 25
+      "order": 26
     }
   ],
   "items": [
@@ -1200,6 +1205,61 @@
       "description": "Enable 'Tap To Click' in System Prefrences → Trackpad",
       "category": "os_settings",
       "code": "write com.apple.AppleMultitouchTrackpad Clicking -bool true"
+    },
+    {
+      "id": "unity",
+      "type": "cask",
+      "name": "Unity",
+      "description": "Unity’s real-time 3D development platform empowers you with all you need to create, operate, and monetize.",
+      "category": "development_tools",
+      "download_url": "https://unity.com/",
+      "code": "unity"
+    },
+    {
+      "id": "spectacle",
+      "type": "cask",
+      "name": "Spectacle",
+      "description": "Move and resize windows with ease.",
+      "category": "utilities",
+      "download_url": "https://www.spectacleapp.com/",
+      "code": "spectacle"
+    },
+    {
+      "id": "flycut",
+      "type": "cask",
+      "name": "Flycut (Clipboard manager)",
+      "description": "Flycut is a clean and simple clipboard manager for developers.",
+      "category": "productivity",
+      "download_url": "https://www.spectacleapp.com/",
+      "code": "flycut"
+    },
+    {
+      "id": "robo_3t",
+      "type": "cask",
+      "name": "Robo 3T",
+      "description": "Robo 3T (formerly Robomongo) is the free lightweight GUI for MongoDB enthusiasts.",
+      "category": "databases",
+      "download_url": "https://robomongo.org/",
+      "code": "robo-3t"
+    },
+    {
+      "id": "foxitreader",
+      "type": "cask",
+      "name": "Foxit Reader",
+      "description": "PDF Editor for Mac to modify PDF documents",
+      "category": "productivity",
+      "download_url": "https://www.foxitsoftware.com/pdf-editor-mac/",
+      "code": "foxitreader"
+    },
+    {
+      "id": "franz",
+      "type": "cask",
+      "name": "Franz",
+      "description": "Franz is your messaging app for WhatsApp, Facebook Messenger, Slack, Telegram and many many more.",
+      "category": "communication",
+      "download_url": "https://www.foxitsoftware.com/pdf-editor-mac/",
+      "code": "franz"
     }
   ]
 }
+
